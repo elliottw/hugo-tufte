@@ -11,7 +11,7 @@ attempts to be a faithful implementation of the
 
 - The original repo: [shawnohare/hugo-tufte](https://github.com/shawnohare/hugo-tufte)
 - Second repo: [slashformotion/hugo-tufte](https://github.com/slashformotion/hugo-tufte)
-- This ([loikein/hugo-tufte](https://github.com/loikein/hugo-tufte)) is now the _de facto_ third repo although my original intension was only to make a few tweaks.
+- This is a fork of ([loikein/hugo-tufte](https://github.com/loikein/hugo-tufte)) which is now the _de facto_ third repo although my original intension was only to make a few tweaks.
 
 ## Quickstart
 
